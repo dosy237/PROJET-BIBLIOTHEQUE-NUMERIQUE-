@@ -4,7 +4,10 @@
 Bibliothèque Numérique est une application full-stack complète permettant de gérer efficacement une bibliothèque. Elle offre un système d'emprunt de livres, de réservations, de gestion des utilisateurs et bien plus encore.
  ## Fonctionnalités Principales
 
-Gestion des Livres : Catalogue complet avec recherche, filtres et catégories
+Gestion des Livres : 
+
+```bash
+Catalogue complet avec recherche, filtres et catégories
 Système d'Emprunt : Emprunts, retours, renouvellements et gestion des amendes
 Réservations : Système de réservation pour les livres non disponibles
 Authentification JWT : Sécurité robuste avec tokens d'accès et de rafraîchissement
@@ -12,6 +15,8 @@ Multi-Rôles : Utilisateur, Bibliothécaire et Administrateur
 Avis et Notes : Les utilisateurs peuvent noter et commenter les livres
 Interface Admin : Panneau d'administration Django complet
 API RESTful : Documentation Swagger automatique
+
+```
 
 ##  Architecture
 
