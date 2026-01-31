@@ -154,6 +154,9 @@ Serveur Web : Nginx (production)
 WSGI : Gunicorn
 
   ## Auteurs
-
+  
+```
 donfack synthia calorine  - Développeur principal - @dosy237
 TCHOULA DINOU ARNAUD RAYAM -  developpeur - rayanebambino3-del
+
+```
